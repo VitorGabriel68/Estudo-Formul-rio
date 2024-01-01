@@ -1,0 +1,20 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+    padding-top: 10%;
+    text-align: center;
+}
+.cabeçalho{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.mostrar{
+    
+}
+button{
+    background-color:black;
+    color: white;
+    border-color: red;
+}
